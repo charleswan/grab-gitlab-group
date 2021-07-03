@@ -1,0 +1,12 @@
+[sys]
+limiter_max = 30
+
+[auth]
+gitlab_cookie = "your_gitlab_cookie"
+
+[url]
+gitlab_group = "https://git.xxx.xxx/groups/xxx"
+gitlab_git_ssh_prefix = "ssh://git@git.xxx.xxx:8080/xxx"
+
+[path]
+clone_dest_path = "/Users/xxx/Projects/xxx/xxx/xxx/git.xxx.xxx/audit"
